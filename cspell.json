@@ -1,0 +1,13 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "Playwright", 
+    "TypeScript", 
+    "POM",  
+    "searchresults",
+    "summarypage",
+    "passengerdetails",
+    "carddetails"],
+  "ignorePaths": ["node_modules", "dist", "build", "**/package-lock.json"]
+}
